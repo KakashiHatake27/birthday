@@ -87,11 +87,6 @@
     }
   }
 
-  /* scroll for more text */
-  /* .scroll{
-
-  } */
-
   /* carousel */
 
   .carousel {
@@ -130,7 +125,7 @@
     }
 
     100%{
-        transform: translateX(calc(-250px * 19));
+        transform: translateX(calc(-250px * 38));
     }
 }
 
