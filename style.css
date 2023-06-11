@@ -202,14 +202,13 @@ img:hover{
 footer{
     padding-top:20px ;
     padding-bottom:20px ;
-    /* background-color: #000; */
-    background: #59c173; /* fallback for old browsers */
+    background: #59c173;
     background: -webkit-linear-gradient(
       to right,
       #5d26c1,
       #a17fe0,
       #59c173
-    ); /* Chrome 10-25, Safari 5.1-6 */
+    );
     background: linear-gradient(
         to right,
         #5d26c1,
@@ -220,6 +219,5 @@ footer{
     text-align: center;
     color: white;
     font-size: x-large;
-    /* height: auto; */
 }
 
