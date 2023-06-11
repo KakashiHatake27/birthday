@@ -87,7 +87,7 @@
     }
   }
 
-  
+
 /* music */
 
 .music{
@@ -198,3 +198,21 @@ img:hover{
     top: 0;
     transform: rotateZ(180deg);
 }
+
+footer{
+    padding-top:20px ;
+    padding-bottom:20px ;
+    /* background-color: #000; */
+    background: linear-gradient(
+        to right,
+        #5d26c1,
+        #a17fe0,
+        #59c173
+      ); 
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    /* height: auto; */
+}
+

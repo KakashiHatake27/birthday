@@ -3,7 +3,7 @@ let play = document.getElementById("play");
 let pause = document.getElementById("pause");
 
 
-let audio = new Audio("./happybirthday.mp3");
+let audio = new Audio("./jatt.mp3");
 function playMusic(){
     audio.play();
 }
