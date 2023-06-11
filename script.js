@@ -1,3 +1,4 @@
+// Confetti
 const button = document.querySelector('#button');
 const canvas = document.querySelector('#confetti');
 
@@ -8,3 +9,10 @@ button.addEventListener('click', () => {
         emojis: ['🎂', '🥳', '💖', '💝', '😘', '🎉'],
     }).then(() => jsConfetti.addConfetti())
 })
+
+
+
+// Music
+
+
+

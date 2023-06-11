@@ -87,14 +87,41 @@
     }
   }
 
+  
+/* music */
+
+.music{
+    margin-top: 15%;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 #999;
+    border-radius: 40px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    width: fit-content;
+    position: relative;
+    padding: 5%;
+}
+
+.music button{
+    border-radius: 20px;
+    color: #fff;
+    /* margin-top: 18px; */
+    padding: 5px 10px 5px 10px;
+    background-color: #47c35a;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
   /* carousel */
 
   .carousel {
-    min-height: 70vh;
+    margin-top: 0px;
+    min-height: 60vh;
     display: grid;
     place-items: center;
-    
-
 }
 
 .slider {
